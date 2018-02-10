@@ -1,4 +1,4 @@
-package variables_datatypes_operators;
+package sec4_variables_datatypes_operators;
 
 public class Hello {
     public static void main(String args[]){
