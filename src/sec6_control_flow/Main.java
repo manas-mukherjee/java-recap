@@ -17,5 +17,16 @@ public class Main {
             default:
                 System.out.println("Ohh! This is default");
         }
+
+        String mon = "Jan";
+
+        switch (mon){
+            case "Jan":
+                System.out.println("January");
+                break;
+            default:
+                System.out.println("Not sure");
+
+        }
     }
 }
