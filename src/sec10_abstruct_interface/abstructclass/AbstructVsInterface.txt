@@ -1,0 +1,12 @@
+Abstract -
+    Member variables can be inherited.
+    Can have member variables.
+    Can have constructor
+    Member can have any visibility( private, protected etc)
+    Method can have imple
+Interface -
+    public stativ variables only.
+    Can't have instance.
+    Can't have constructor
+    All member are public
+    No code in the method. signature only
