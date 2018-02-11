@@ -9,4 +9,4 @@ Interface -
     Can't have instance.
     Can't have constructor
     All member are public
-    No code in the method. signature only 
+    No code in the method. signature only
