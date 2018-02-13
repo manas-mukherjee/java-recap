@@ -1,4 +1,4 @@
-package corejava.javaindepth.chap19_concurrency;
+package corejava.javaindepth.chap19_concurrency._1threadintro;
 
 public class MyFirstThread2 extends Thread {
 
